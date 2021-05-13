@@ -27,5 +27,6 @@ Timezone: (UTC+03:00)</br>
 Working Remotely</br>
 EPAM.COM](https://www.epam.com/)
 
-
-*HW created in [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)*
+```
+HW created in [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+```
