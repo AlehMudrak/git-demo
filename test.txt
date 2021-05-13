@@ -3,3 +3,4 @@ My first test
 Add changes from web interface
 
 del commit
+add to commit new
