@@ -19,13 +19,13 @@
 ---
 
 **ALEH MUDRAK**
-####Student
-####Cell:  *+375 29 333 2210*
-####Email:  [*Aleh_Mudrak@epam.com*](mailto:aleh_mudrak@epam.com)
-####Minsk, Belarus
-####Timezone: (UTC+03:00)
-####Working Remotely
-####[EPAM.COM](https://www.epam.com/)
+###Student
+###Cell:  *+375 29 333 2210*
+###Email:  [*Aleh_Mudrak@epam.com*](mailto:aleh_mudrak@epam.com)
+###Minsk, Belarus
+###Timezone: (UTC+03:00)
+###Working Remotely
+###[EPAM.COM](https://www.epam.com/)
 
 
 ######HW created in [markdown format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
