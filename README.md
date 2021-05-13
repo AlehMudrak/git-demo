@@ -18,9 +18,9 @@
 ![6](https://github.com/MNT-Lab/git-module212/blob/omudrak/pics/lab202.png "Lab202")
 ---
 
-**ALEH MUDRAK**
-*Student*
-Cell:  *+375 29 333 2210*
+**ALEH MUDRAK**</br>
+Student</br>
+Cell:  *+375 29 333 2210*</br>
 Email:  [*Aleh_Mudrak@epam.com*](mailto:aleh_mudrak@epam.com)
 *Minsk, Belarus*
 ###Timezone: (UTC+03:00)
